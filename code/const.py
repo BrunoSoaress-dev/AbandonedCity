@@ -1,4 +1,16 @@
-MENU_OPTION = ('NEW GAME',
-               'SCORE',
-               'EXIT'
-               )
+WIDTH = 1000
+HEIGHT = 600
+FPS = 60
+
+PLAYER_SPEED = 5
+ENEMY_SPEED = 2
+BULLET_SPEED = 12
+
+PLAYER_MAX_HEALTH = 5
+
+ORANGE = (255, 140, 0)
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+RED = (200, 40, 40)
+
+ASSET_DIR = "asset/"
